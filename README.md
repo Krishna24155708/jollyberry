@@ -90,3 +90,6 @@ Backend/API for real bookings, email confirmations, user accounts, calendar (.ic
 ## License
 
 MIT – free to use for learning and portfolio purposes.
+
+## AI Assistance
+This project was built with the help of Claude (Anthropic) for code generation and guidance. The code was reviewed, tested and deployed by me.
