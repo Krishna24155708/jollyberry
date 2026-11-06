@@ -2,8 +2,8 @@
 
 A pastel, happy-go-lucky, fully responsive event discovery and registration website built with **HTML5, CSS3 and vanilla JavaScript** (no frameworks, no build step).
 
-> **Live demo:** _add your deployed link here_
-> **Repository:** _add your GitHub link here_
+> **Live demo:** https://krishna24155708.github.io/jollyberry/
+> **Repository:** https://github.com/Krishna24155708/jollyberry
 
 ## Features
 
